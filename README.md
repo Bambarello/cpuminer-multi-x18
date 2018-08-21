@@ -1,7 +1,6 @@
 CPUMiner-Multi
 ==============
 
-[![Build Status](https://travis-ci.org/tpruvot/cpuminer-multi.svg)](https://travis-ci.org/tpruvot/cpuminer-multi)
 
 This is a multi-threaded CPU miner,
 fork of [pooler](//github.com/pooler)'s cpuminer (see AUTHORS for list of contributors).
@@ -90,8 +89,8 @@ Dependencies
 
 Download
 ========
- * Windows releases: https://github.com/tpruvot/cpuminer-multi/releases
- * Git tree:   https://github.com/tpruvot/cpuminer-multi
+ * Windows releases: https://github.com/saidman/cpuminer-multi/releases
+ * Git tree:   https://github.com/saidman/cpuminer-multi
    * Clone with `git clone https://github.com/tpruvot/cpuminer-multi`
 
 Build
